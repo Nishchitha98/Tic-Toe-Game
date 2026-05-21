@@ -27,10 +27,15 @@ A modern and responsive Tic-Tac-Toe game built using HTML, CSS, and JavaScript.
 
 
 tic-tac-toe/
+
 │
+
 ├── index.html
+
 ├── styles.css
+
 └── script.js
+
 
 ---
 ## 🎯 Game Rules
