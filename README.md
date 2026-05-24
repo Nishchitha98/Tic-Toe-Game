@@ -38,6 +38,12 @@ tic-tac-toe/
 
 
 ---
+
+### Live Demo
+You can have a look at game!
+https://nishchitha98.github.io/Tic-Toe-Game/
+
+---
 ## 🎯 Game Rules
 Player X starts first
 Players take turns placing marks
